@@ -1,5 +1,4 @@
 import tkinter as tk
-
 calculation = ""
 
 def add_to_calculation(symbol):
@@ -75,3 +74,5 @@ btn_equal = tk.Button(root, text="=", command=do_calculations, width=11, font=("
 btn_equal.grid(row=6, column=3, columnspan=2)
 
 root.mainloop()#run the loop
+
+#this is a test comment to see if i can do git correctly!!!
