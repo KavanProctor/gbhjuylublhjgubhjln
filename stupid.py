@@ -76,3 +76,4 @@ btn_equal.grid(row=6, column=3, columnspan=2)
 root.mainloop()#run the loop
 
 #this is a test comment to see if i can do git correctly!!!
+#I got the git commit from my laptop this is all good to go and done onto the next project!!!
